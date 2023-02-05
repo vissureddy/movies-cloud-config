@@ -8,4 +8,4 @@ eureka:
       hostname: localhost
 
 student:
-  rollNo: 123
+  rollNo: 124
