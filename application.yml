@@ -6,3 +6,6 @@ eureka:
       defaultZone: http://localhost:9193/eureka/
     instance:
       hostname: localhost
+
+student:
+  rollNo: 123
